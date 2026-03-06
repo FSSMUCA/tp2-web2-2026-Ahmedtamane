@@ -1,0 +1,16 @@
+let a = 42;
+console.log(a + " -> Number");
+let b = "Bonjour";
+console.log(b + " -> string");
+let c = true;
+console.log(c + " -> boolean");
+let d = null;
+console.log(d + " -> object");
+let e;
+console.log(e +" -> undefined");
+let f = [1, 2, 3];
+console.log(f + " -> object");
+let g = { nom: "Ali" };
+console.log(g + " -> object");
+let h = NaN;
+console.log(h + " -> Number");
